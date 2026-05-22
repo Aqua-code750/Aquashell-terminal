@@ -19,7 +19,7 @@ It mixes **fun hacker‑style commands** with **useful shell utilities**, and ca
 
 ### Run from source
 Make sure you download the folder with all the files ready for the dist aquashell.exe and if you wanna test it install the files and 
-make sure you dont edit it.
+make sure you dont edit it. Also the EXE is in the dist file.
 ## Tutorial and Walkthrough
 Btw i dont have the video to show you how to use the shell but i also listed some steps that you can do and the terminal view
 #### 1. Terminal View
