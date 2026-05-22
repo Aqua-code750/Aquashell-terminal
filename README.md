@@ -28,7 +28,9 @@ The shell's view or the terminal view is simple:-
 AquaShell$                 <---- the command box
 
 
+#### 2. commands
 
+btw commands are listed in the command help so yeah type 'help' for commands built in
 
 
 
