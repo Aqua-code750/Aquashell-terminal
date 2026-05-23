@@ -1,7 +1,7 @@
 # AquaShell v0.1 🌊💻 (Windows Only)
 
 AquaShell is a playful, lightweight **Windows terminal emulator** built in Python.  
-It mixes **fun hacker‑style commands** with **useful shell utilities**, and can also run **external commands** like `npm`, `pip`, or other tools installed on your system.
+It mixes **fun hacker‑style commands** with **useful shell utilities**, and cannot run **external commands** like `npm`, `pip`, or other tools installed on your system.
 
 ---
 
@@ -10,7 +10,7 @@ It mixes **fun hacker‑style commands** with **useful shell utilities**, and ca
 - Minimal dependencies (Python standard library + optional `rich`)
 - Fun commands for entertainment
 - Useful commands for basic shell navigation
-- Ability to run external commands (`npm`, `pip`, etc.)
+- No Ability to run external commands (`npm`, `pip`, etc.)
 - Easy to extend with your own commands
 
 ---
